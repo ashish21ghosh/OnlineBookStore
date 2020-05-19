@@ -1,2 +1,4 @@
 # OnlineBookStore
-A personal project with PHP and MySQL from scratch from my college days.
+A personal project with PHP and MySQL.
+
+My first ever project.
