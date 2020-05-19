@@ -1,0 +1,56 @@
+body{background: url(bg.jpg) top left no-repeat fixed;}
+#head{background-color: rgba(8,41,138,0.5); width: 100%; padding:10px;border-radius: 24px 0px;}
+#table{width: 1333px;}
+#link:hover{font-size:17px;}
+#a{text-decoration: none;color: #000;}
+#a:hover{text-decoration: underline;color: #000;}
+#a1{text-decoration: none;color: #000;}
+#a01{color: rgb(0,0,64);}
+#img01{opacity:0.90; width: 700px;height:300px;box-shadow:2px 2px 3px #000;}
+#img01:hover{opacity:0.95; width: 700px;height: 300px;box-shadow:5px 5px 10px #000;}
+#img01:active{opacity:1.0; width: 700px;height: 300px;}
+#r_box{height:200px;width:235px ;border-radius: 24px 24px; padding: 15px;background-color:rgba(8,41,138,0.3);margin:20px 0px 0px 0px;}
+#r_box2{width: 260px;margin-top: 30px;}
+#book_tab{opacity:0.95;width:75px;height:116px;box-shadow:2px 2px 3px #000;}
+#book_tab:hover{opacity:0.95;width:75px;height:116px;box-shadow:5px 5px 7px #000;}
+#book_tab:active{opacity:1.0;width:65px;height:100px;box-shadow:2px 2px 3px #000;}
+textarea {font-family: Arial;}
+#input{border-radius: 5px 5px;font-size:15px;border:1px solid white;padding:3px;}
+#input1{border-radius: 5px 5px;border:1px solid white; padding:3px; font-size: 15px;width:207px;}
+#button{font-size:15px;color: white;background: rgba(8,41,138,0.6); border-radius: 5px 5px;border:1px solid rgba(8,41,138,0.6);padding:5px;box-shadow: 1px 1px 3px #000;}
+#button:active{box-shadow: 0px 0px;}
+#button1{width:200px;box-shadow:2px 2px 3px #000;border-radius: 10px 10px;}
+#button1:active{box-shadow:0px 0px 0px #000;}
+#button2{width:130px;box-shadow:2px 2px 3px #000;border-radius: 10px 10px;}
+#button2:active{box-shadow:0px 0px 0px #000;}
+#font{font-size:17px;font-family:Arial;}
+#font1{font-family:Arial;}
+/*common*/
+#rh{font-family:Arial,Helvetica,sans-serif;font-size:20px;color:rgba(0,0,0,0.8);}
+#close{opacity:0.5;width:30px;}
+#close:hover{opacity:1.0;}
+
+
+
+.book_tab{width:95%;margin-top:10px;margin-left:15px;}
+
+#books_tab{width:602px;border-collapse:collapse;margin-top:10px;margin-bottom:25px;padding:15px;}
+#books_tab:hover{background-color:rgba(8,41,138,0.2);border-radius: 24px 24px;box-shadow:2px 2px 3px #000;}
+#books_img{width:100px;box-shadow:2px 2px 3px #000;}
+#books_img:hover{box-shadow:3px 3px 5px #000;}
+#books_img:active{box-shadow:1px 1px 3px #000;}
+#cart{width:150px;opacity:0.8;box-shadow:2px 2px 3px #000;border-radius:8px 8px;}
+#cart:hover{opacity:0.9;box-shadow:2px 2px 2px #000;}
+#cart:active{opacity:0.9;box-shadow:1px 1px 1px #000;}
+#cart1{width:50px;opacity:0.8;box-shadow:2px 2px 3px #000;}
+#arial{font-family:Arial,Helvetica,sans-serif;}
+#h_font{font-size:140%;font-weight:normal;font-family:Arial,Helvetica,sans-serif;}
+.h_font{font-size:150%;font-weight:normal;font-family:Arial,Helvetica,sans-serif;}
+
+#buy_block{width:200px;}
+#buy_tab{background-color:rgba(8,41,138,0.2);border-radius: 24px 24px;padding:30px;width: 520px;margin-left: 70px;margin-top: 30px;}
+
+
+#box{background-color:rgba(8,41,138,0.2); padding:15px; margin-top: 10%;margin-left:auto;margin-right:auto; border-radius: 24px 24px;box-shadow:6px 5px 10px #000;}
+#home{font-size: 20px;color: rgb(0,0,64); text-decoration: underline;}
+li{font-size: 17px;}
