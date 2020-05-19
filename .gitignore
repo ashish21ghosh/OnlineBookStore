@@ -1,5 +1,5 @@
+# static
+images
+
 # OS metadata
 .DS_Store
-
-# Ignore built ts files
-images
